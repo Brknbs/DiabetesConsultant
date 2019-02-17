@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47248677746",
+    "firebase_url": "https://diabates-consultant.firebaseio.com",
+    "project_id": "diabates-consultant",
+    "storage_bucket": "diabates-consultant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47248677746:android:62f9bcf3517ae24c",
+        "android_client_info": {
+          "package_name": "com.brknbs.diabetesconsultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47248677746-90d729r7md1glhlajh0tb5d3ph5ek1bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brknbs.diabetesconsultant",
+            "certificate_hash": "e4a3bc4fda5f154491a0a7b6fda8f8da03543d72"
+          }
+        },
+        {
+          "client_id": "47248677746-ckh78famaiuk9ltgbhljaq6bc4q5j6u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWhLuTQt6B0ZBwxDcsMSkJUhgxfVT2Ljc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47248677746-ckh78famaiuk9ltgbhljaq6bc4q5j6u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile_bg"
+    tools:context=".ProfileActivity"
+
+    >
+
+
+
+    <Button
+        android:id="@+id/buttonBloodSugar"
+        android:layout_width="244dp"
+        android:layout_height="76dp"
+        android:layout_marginTop="84dp"
+        android:background="#f341a4cc"
+        android:drawableStart="@drawable/blood_sugar"
+        android:drawablePadding="15dp"
+        android:padding="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="Add Blood Sugar Info" />
+
+    <Button
+        android:id="@+id/buttonExercise"
+        android:layout_width="244dp"
+        android:layout_height="76dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="184dp"
+        android:background="#f2994c"
+        android:drawableStart="@drawable/exercises"
+        android:padding="20dp"
+        android:text="Add Exercise Info" />
+
+    <Button
+        android:id="@+id/buttonNutrition"
+        android:layout_width="242dp"
+        android:layout_height="74dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="284dp"
+        android:background="#6fefb1"
+        android:drawableStart="@drawable/nutrition"
+        android:padding="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:text="Add Nutrition Info" />
+
+    <Button
+        android:id="@+id/buttonMedicine"
+        android:layout_width="244dp"
+        android:layout_height="76dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="384dp"
+        android:background="#f1375f"
+        android:drawableStart="@drawable/medicines"
+        android:padding="20dp"
+        android:layout_gravity="center"
+        android:text="Add Medicine Info" />
+</RelativeLayout>
