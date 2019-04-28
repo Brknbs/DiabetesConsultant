@@ -1,5 +1,11 @@
 # DiabetesConsultant
 
+Used Technologies : Android Studio,Java,Firebase
+
+Explanation : 
+
+There are 2 user types: Patient and Doctor. Patient enters his/her daily health informations(blood sugar,exercise,nutrition and medicine) and the patient's doctor can see those informations. Patient can choose his/her doctor.
+
 Screenshots :
 
 <img src="https://drive.google.com/uc?export=view&id=1pTeVV_yMrMHei4kE-TeUDhfb03IB7YX3" alt="Your image title" width="250"/>
